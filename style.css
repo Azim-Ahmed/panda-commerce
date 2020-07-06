@@ -41,3 +41,21 @@
 .categores img{
     width: 80px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 10px 12px gray;
+    border-radius: 8px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: green;
+}
+footer{
+    text-align: center;
+}
